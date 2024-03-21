@@ -2,5 +2,5 @@
 Projects I worked on while attending the Data Science TripleTen Bootcamp
 
 | Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Instacart| I will comeup with a better name. |
+| :-------: | --------------------------- |----------- |
+| 1 | [Instacart Exploratory Data Analysis](Instacart_EDA/Instacart_EDA.ipynb)| A comprehensive exploratory data analysis of the Instacart dataset to reveal purchasing patterns, product popularity, and customer behavior insights.|
