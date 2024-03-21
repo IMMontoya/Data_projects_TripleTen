@@ -41,7 +41,7 @@ This project aims to explore and analyze an Instacart public dataset, focusing o
 
 #### Key Analysis Highlights
 1. Volume by hour:
-![Orders Per Hour](/images/orders_per_hour.png "Orders Per Hour")
+![Orders Per Hour](Instacart_EDA/images/orders_per_hour.png "Orders Per Hour")
 The busiest hour of the day is 10 AM.<br>
 The top five busiest hours of the day are 10 AM, 11 AM, 3 PM, 4 PM, and 1 PM (respectively).
 82.17% of all orders are placed between 8AM and 6PM.
