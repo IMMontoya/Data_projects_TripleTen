@@ -4,6 +4,8 @@
 ## Description
 This project aims to explore and analyze an Instacart public dataset, focusing on uncovering insights into customer behavior, product preferences, and order patterns. The notebook titled `Instacart_EDA.ipynb` contains a thorough exploratory data analysis (EDA) that delves into various aspects of the Instacart dataset, including orders, products, aisles, and departments. By examining trends and patterns in this dataset, we address questions related to shopping habits, frequency of purchases, and preferences across different segments of Instacart's product range.
 
+[Link to Jupyter Notebook](Instacart_EDA.ipynb)
+
 ### Features and Functionality
 - **Data Loading and Cleaning**: Custom functions to load various CSV files, handling missing values and duplicates.
 - **Exploratory Data Analysis**: Visualization of purchase patterns, product categories, and order frequencies.
@@ -40,18 +42,18 @@ This project aims to explore and analyze an Instacart public dataset, focusing o
 5. Similarly, 'Days since prior order' in `orders.csv` looks to max out at the 30 day mark (values above 30 are recorded as 30).
 
 #### Key Analysis Highlights
-1. Volume by hour:<br>
-![Orders Per Hour](images/orders_per_hour.png "Orders Per Hour")<br>
+1. Volume by hour:
+![Orders Per Hour](/images/orders_per_hour.png "Orders Per Hour")
 The busiest hour of the day is 10 AM.<br>
 The top five busiest hours of the day are 10 AM, 11 AM, 3 PM, 4 PM, and 1 PM (respectively).
 82.17% of all orders are placed between 8AM and 6PM.
 
 2. Volume by day of week:<br>
-![Orders Per Day of Week](images/orders_per_dow.png "Orders Per Day of Week")<br>
+![Orders Per Day of Week](/images/orders_per_dow.png "Orders Per Day of Week")<br>
 The volume is highest on Sundays and Mondays, with a relative dip for the rest of the week and a slight uptick on Fridays and Saturdays. I.E. Most volume is done in and around the weekend (Friday - Monday).
 
-3. How long people wait before placing their next order:<br>
-![Distribution of Days Since Prior Order](images/distri_days_since_prior_order.png "Distribution of Days Since Prior Order")<br>
+3. How long people wait before placing their next order:
+![Distribution of Days Since Prior Order](/images/distri_days_since_prior_order.png "Distribution of Days Since Prior Order")
 Considering point 5 from `Data Issues`, the next most occurring number of days since prior order is 7. Additionally 7 days is the median value for the dataset.<br>
 Generally speaking, customers order about once every 7 days.
 
@@ -59,7 +61,7 @@ Generally speaking, customers order about once every 7 days.
 The most ordered products and most reordered products overlap by 95%, with only Organic Grape Tomatoes from the most ordered list being swapped with Organic Grape Tomatoes in the most reordered list. For both most ordered and most reordered, 75% were organic produce.
 
 5. Typical order size:<br>
-![Distribution of Products Per Order](images/distri_prod_per_order.png "Distribution of Products Per Order")<br>
+![Distribution of Products Per Order](/images/distri_prod_per_order.png "Distribution of Products Per Order")
 Typically, people buy 5 items in a single order, as that's the most common order size (mode). The distribution of products per order is right-skewed, with the median at 8 items, slightly higher than the mode. The average (mean) number of items is about 10.
 
 ### Tools Used
