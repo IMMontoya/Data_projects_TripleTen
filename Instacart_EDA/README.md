@@ -42,7 +42,7 @@ This project aims to explore and analyze an Instacart public dataset, focusing o
 5. Similarly, 'Days since prior order' in `orders.csv` looks to max out at the 30 day mark (values above 30 are recorded as 30).
 
 #### Key Analysis Highlights
-1. Volume by hour:
+1. Volume by hour:<br>
 ![Orders Per Hour](images/orders_per_hour.png "Orders Per Hour")
 The busiest hour of the day is 10 AM.<br>
 The top five busiest hours of the day are 10 AM, 11 AM, 3 PM, 4 PM, and 1 PM (respectively).
@@ -52,7 +52,7 @@ The top five busiest hours of the day are 10 AM, 11 AM, 3 PM, 4 PM, and 1 PM (re
 ![Orders Per Day of Week](images/orders_per_dow.png "Orders Per Day of Week")<br>
 The volume is highest on Sundays and Mondays, with a relative dip for the rest of the week and a slight uptick on Fridays and Saturdays. I.E. Most volume is done in and around the weekend (Friday - Monday).
 
-3. How long people wait before placing their next order:
+3. How long people wait before placing their next order:<br>
 ![Distribution of Days Since Prior Order](images/distri_days_since_prior_order.png "Distribution of Days Since Prior Order")
 Considering point 5 from `Data Issues`, the next most occurring number of days since prior order is 7. Additionally 7 days is the median value for the dataset.<br>
 Generally speaking, customers order about once every 7 days.
