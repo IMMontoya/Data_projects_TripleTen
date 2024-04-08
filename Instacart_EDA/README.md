@@ -43,7 +43,7 @@ This project aims to explore and analyze an Instacart public dataset, focusing o
 
 #### Key Analysis Highlights
 1. Volume by hour:<br>
-![Orders Per Hour](images/orders_per_hour.png "Orders Per Hour")
+![Orders Per Hour](images/orders_per_hour.png "Orders Per Hour")<br>
 The busiest hour of the day is 10 AM.<br>
 The top five busiest hours of the day are 10 AM, 11 AM, 3 PM, 4 PM, and 1 PM (respectively).
 82.17% of all orders are placed between 8AM and 6PM.
@@ -53,7 +53,7 @@ The top five busiest hours of the day are 10 AM, 11 AM, 3 PM, 4 PM, and 1 PM (re
 The volume is highest on Sundays and Mondays, with a relative dip for the rest of the week and a slight uptick on Fridays and Saturdays. I.E. Most volume is done in and around the weekend (Friday - Monday).
 
 3. How long people wait before placing their next order:<br>
-![Distribution of Days Since Prior Order](images/distri_days_since_prior_order.png "Distribution of Days Since Prior Order")
+![Distribution of Days Since Prior Order](images/distri_days_since_prior_order.png "Distribution of Days Since Prior Order")<br>
 Considering point 5 from `Data Issues`, the next most occurring number of days since prior order is 7. Additionally 7 days is the median value for the dataset.<br>
 Generally speaking, customers order about once every 7 days.
 
@@ -61,7 +61,7 @@ Generally speaking, customers order about once every 7 days.
 The most ordered products and most reordered products overlap by 95%, with only Organic Grape Tomatoes from the most ordered list being swapped with Organic Grape Tomatoes in the most reordered list. For both most ordered and most reordered, 75% were organic produce.
 
 5. Typical order size:<br>
-![Distribution of Products Per Order](images/distri_prod_per_order.png "Distribution of Products Per Order")
+![Distribution of Products Per Order](images/distri_prod_per_order.png "Distribution of Products Per Order")<br>
 Typically, people buy 5 items in a single order, as that's the most common order size (mode). The distribution of products per order is right-skewed, with the median at 8 items, slightly higher than the mode. The average (mean) number of items is about 10.
 
 ### Tools Used
