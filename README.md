@@ -4,6 +4,7 @@ Projects I worked on while attending the Data Science TripleTen Program
 
 | Project number | Title | Description |
 | :-------: | --------------------------- |----------- |
+| 12 | [Forecasting Hourly Taxi Orders Using Machine Learning](https://github.com/IMMontoya/forecasting_hourly_taxi_orders_using_machine_learning/blob/main/README.MD) | Develops and evaluates 5 models to accurately predict hourly taxi orders using historical data and time series analysis. |
 | 11 | [Predicting Used Car Market Values with Machine Learning](https://github.com/IMMontoya/predicting_used_car_market_values_with_machine_learning/blob/main/README.md) | Developes and evaluates 4 machine learning models to determine the best model to accurately predict the market value of used cars using historical data on technical specifications, trim versions, and prices. |
 | 10 | [Machine Learning Exploration for Insurance Company](https://github.com/IMMontoya/Machine_Learning_Exploration_for_Insurance_Company/blob/main/README.MD) | Evaluates Machine Learning's potential for finding similar customers, predicting insurance benefits, and protecting client data. |
 | 9 | [Machine Learning Model for Efficiency in Gold Mining](https://github.com/IMMontoya/Machine-Learning-Model-for-Efficiency-in-Gold-Mining/blob/main/README.md) | Develops a machine learning model to predict gold recovery using regression, cross validation, and Symmetric Mean Absolute Percentage Error for validation. |
