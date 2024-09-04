@@ -4,6 +4,7 @@ Projects I worked on while attending the Data Science TripleTen Program
 
 | Project number | Title | Description |
 | :-------: | --------------------------- |----------- |
+| 15 | [Predicting Customer Churn with Boosting Algorithms](https://github.com/IMMontoya/interconnect_predict_churn/blob/main/README.MD) | Develops a binary classification model to predict customer churn for a telecommunications company using boosting algorithms. Achieves an accuracy of 81%. |
 | 14 | [Predicting Age with Computer Vision](https://github.com/IMMontoya/predicting_age_with_computer_vision/blob/main/README.MD) | Develops a computer vision model to predict the age of a person based on a photo for the purposes of age verification in alcohol sales. |
 | 13 | [Sentiment Analysis with Natural Language Processing](https://github.com/IMMontoya/sentiment_analysis_with_natural_language_processing/blob/main/README.MD) | Uses natural language processing (NLP) with machine learning to conduct sentiment analysis on movie reviews. |
 | 12 | [Forecasting Hourly Taxi Orders Using Machine Learning](https://github.com/IMMontoya/forecasting_hourly_taxi_orders_using_machine_learning/blob/main/README.MD) | Develops and evaluates 5 models to accurately predict hourly taxi orders using historical data and time series analysis. |
