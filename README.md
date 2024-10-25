@@ -4,6 +4,7 @@ Projects I worked on while attending the Data Science TripleTen Program
 
 | Project number | Title | Description |
 | :-------: | --------------------------- |----------- |
+| 16 | [Song Genre Classification with Spotify API](https://github.com/IMMontoya/spotify_genre_predictor/blob/main/README.md) | Details the data gathering process for a larger team project for building a machine learning model. |
 | 15 | [Predicting Customer Churn with Boosting Algorithms](https://github.com/IMMontoya/interconnect_predict_churn/blob/main/README.MD) | Develops a binary classification model to predict customer churn for a telecommunications company using boosting algorithms. Achieves an accuracy of 81%. |
 | 14 | [Predicting Age with Computer Vision](https://github.com/IMMontoya/predicting_age_with_computer_vision/blob/main/README.MD) | Develops a computer vision model to predict the age of a person based on a photo for the purposes of age verification in alcohol sales. |
 | 13 | [Sentiment Analysis with Natural Language Processing](https://github.com/IMMontoya/sentiment_analysis_with_natural_language_processing/blob/main/README.MD) | Uses natural language processing (NLP) with machine learning to conduct sentiment analysis on movie reviews. |
@@ -19,4 +20,5 @@ Projects I worked on while attending the Data Science TripleTen Program
 | 3 | [Used Vehicle Sales App](https://github.com/IMMontoya/Used_Vehicle_Sales_Tool/blob/main/README.md) | Provides detailed analytics on used vehicle sales, allowing users to explore price distributions and depreciation based on a variety of filters.|
 | 2 | [Telecom Statistical Data Analysis](https://github.com/IMMontoya/Telecom_SDA/blob/main/README.md)| A detailed statistical analysis and hypothesis testing project on Megaline's telecom data to compare revenue generation between Surf and Ultimate plans and assess geographical influence on earnings.|
 | 1 | [Instacart Exploratory Data Analysis](https://github.com/IMMontoya/Instacart_EDA/blob/main/README.md)| A comprehensive exploratory data analysis of the Instacart dataset to reveal purchasing patterns, product popularity, and customer behavior insights.|
+
 ---
