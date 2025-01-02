@@ -1,6 +1,4 @@
-# TripleTen Data Projects
-
-Projects I worked on while attending the Data Science TripleTen Program
+# Data Science Projects
 
 | Project number | Title | Description |
 | :-------: | --------------------------- |----------- |
